@@ -9,5 +9,5 @@ def display_rainbow(colors)
   puts "I: #{colors[5]}"
   puts "V: #{colors[6]}"
 end
-rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+# rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 display_rainbow(rainbow)
